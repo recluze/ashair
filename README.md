@@ -1,4 +1,4 @@
-# ASHAIR — Agentic Self-Healing and Automated Incident Response
+# ASHAIR: Agentic Self-Healing and Automated Incident Response
 
 Implementation of the ASHAIR framework from:
 > *"ASHAIR: Agentic Self-Healing and Automated Incident Response for Cyber-Physical Systems Using LLM-Driven Multi-Agent Frameworks"*
