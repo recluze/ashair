@@ -164,9 +164,6 @@ CURRENT PHYSICAL STATE sp(t):
 CURRENT DIGITAL TWIN STATE st(t):
 {twin_state}
 
-SANDBOX RESULT FOR PREVIOUS ATTEMPT (if any):
-{sandbox_result}
-
 REFORMULATION ATTEMPT: {attempt} of {max_attempts}
 
 Select or reformulate an action and submit it to the Digital Twin sandbox.
